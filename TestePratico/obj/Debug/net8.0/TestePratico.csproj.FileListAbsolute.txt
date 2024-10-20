@@ -13,3 +13,4 @@ C:\Teste Pratico\TestePratico\TestePratico\obj\Debug\net8.0\refint\TestePratico.
 C:\Teste Pratico\TestePratico\TestePratico\obj\Debug\net8.0\TestePratico.pdb
 C:\Teste Pratico\TestePratico\TestePratico\obj\Debug\net8.0\TestePratico.genruntimeconfig.cache
 C:\Teste Pratico\TestePratico\TestePratico\obj\Debug\net8.0\ref\TestePratico.dll
+C:\Teste Pratico\TestePratico\TestePratico\obj\Debug\net8.0\TestePratico.sourcelink.json
